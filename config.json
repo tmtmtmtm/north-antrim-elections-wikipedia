@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Antrim_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q751685",
+    "start": "1950",
+    "end": "9999"
+  }, {
+    "id": "Q43021405",
+    "start": "1885",
+    "end": "1922"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
