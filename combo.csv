@@ -1,0 +1,106 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q1726897,Edward MacNaghten,Q6070653,Irish Conservative Party,3233,Q3397257,1885 general election,1
+,,William Pirrie Sinclair,Q622441,Liberal Party (UK),2149,Q3397257,1885 general election,2
+,Q16031755,John Pinkerton,Q327591,Independent (politician),1915,Q3397257,1885 general election,3
+,Q1726897,Edward MacNaghten,Q6071313,Irish Unionist Party,4429,Q7888016,1886 general election,1
+,,Samuel Craig McElroy,Q622441,Liberal Party (UK),1910,Q7888016,1886 general election,2
+,Q7526238,Charles Lewis,Q6071313,Irish Unionist Party,3858,Q16933910,1887 North Antrim by-election,1
+,,Samuel Craig McElroy,Q622441,Liberal Party (UK),2526,Q16933910,1887 North Antrim by-election,2
+,Q15039997,William Atcheson Traill,Q6017344,Independent Unionist,424,Q16933910,1887 North Antrim by-election,3
+,Q26754457,Charles Connor,Q6071313,Irish Unionist Party,4666,Q7888018,1892 general election,1
+,,William Huston Dodd,Q622441,Liberal Party (UK),2027,Q7888018,1892 general election,2
+,Q7344809,Robert Glendinning,Q7381900,Russellite Unionist,3757,Q3076606,1906 general election,1
+,Q7529698,William Moore,Q6071313,Irish Unionist Party,2969,Q3076606,1906 general election,2
+,Q7175169,Peter Kerr-Smiley,Q6071313,Irish Unionist Party,3519,Q3075752,January 1910 general election,1
+,,William James Baxter,Q622441,Liberal Party (UK),3135,Q3075752,January 1910 general election,2
+,Q7175169,Peter Kerr-Smiley,Q6071313,Irish Unionist Party,3557,Q3076583,December 1910 general election,1
+,,William Macafee,Q622441,Liberal Party (UK),2974,Q3076583,December 1910 general election,2
+,Q7175169,Peter Kerr-Smiley,Q6071313,Irish Unionist Party,9621,Q905063,1918 general election,1
+,Q29135433,Patrick McCarry,Q76382,Sinn Féin,2673,Q905063,1918 general election,2
+,Q7181222,Phelim O'Neill,Q841045,Ulster Unionist Party,41763,Q918412,1955 general election,1
+,,John Dougan,Q76382,Sinn Féin,6809,Q918412,1955 general election,2
+,Q15039914,Henry Clark,Q841045,Ulster Unionist Party,42807,Q918420,1959 general election,1
+,,John Dougan,Q76382,Sinn Féin,2280,Q918420,1959 general election,2
+,Q15039914,Henry Clark,Q841045,Ulster Unionist Party,40372,Q220208,1964 general election,1
+,Q7459483,Seán Caughey,Q16847164,Independent Republican (Ireland),4424,Q220208,1964 general election,2
+,Q15039914,Henry Clark,Q841045,Ulster Unionist Party,31927,Q918430,1966 general election,1
+,Q28359839,Richard Moore,Q7879983,Ulster Liberal Party,8941,Q918430,1966 general election,2
+,Q296597,Ian Paisley,Q7251625,Protestant Unionist Party,24130,Q918442,1970 general election,1
+,Q15039914,Henry Clark,Q841045,Ulster Unionist Party,21451,Q918442,1970 general election,2
+,,Patrick McHugh,Q7058511,Northern Ireland Labour Party,6476,Q918442,1970 general election,3
+,Q583571,Alasdair McDonnell,Q6972240,National Democratic Party (Northern Ireland),4312,Q918442,1970 general election,4
+,Q28359839,Richard Moore,Q7879983,Ulster Liberal Party,2269,Q918442,1970 general election,5
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,41282,Q119524,February 1974 general election,1
+,Q7668225,T. E. Utley,Q7886826,Pro-Assembly Unionist,13651,Q119524,February 1974 general election,2
+,,Mary McAlister,Q175443,Social Democratic and Labour Party,10056,Q119524,February 1974 general election,3
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,43186,Q918508,October 1974 general election,1
+,Q5933073,Hugh Wilson,Q244927,Alliance Party of Northern Ireland,8689,Q918508,October 1974 general election,2
+,,Mary McAlister,Q175443,Social Democratic and Labour Party,7616,Q918508,October 1974 general election,3
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,33941,Q918450,1979 general election,1
+,Q6181178,Jeremy Burchill,Q841045,Ulster Unionist Party,15398,Q918450,1979 general election,2
+,Q5933073,Hugh Wilson,Q244927,Alliance Party of Northern Ireland,7797,Q918450,1979 general election,3
+,Q7440987,Sean Farren,Q175443,Social Democratic and Labour Party,4867,Q918450,1979 general election,4
+,Q6261450,John Turnley,Q282906,Irish Independence Party,3689,Q918450,1979 general election,5
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,23922,Q918466,1983 general election,1
+,Q7343139,Robert Coulter,Q841045,Ulster Unionist Party,10749,Q918466,1983 general election,2
+,Q7440987,Sean Farren,Q175443,Social Democratic and Labour Party,6193,Q918466,1983 general election,3
+,,Pearse McMahon,Q76382,Sinn Féin,2860,Q918466,1983 general election,4
+Q98266448,,Malcolm Samuel,Q15980875,Ecology Party,451,Q918466,1983 general election,5
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,33937,Q20979166,By-election 1986,1
+,Q2073804,Peter Barry,Q2708643,Anglo-Irish Agreement,515,Q20979166,By-election 1986,2
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,28283,Q918472,1987 general election,1
+,Q7440987,Sean Farren,Q175443,Social Democratic and Labour Party,5149,Q918472,1987 general election,2
+,,John Williams,Q244927,Alliance Party of Northern Ireland,5140,Q918472,1987 general election,3
+,,Sean Reagan,Q76382,Sinn Féin,2633,Q918472,1987 general election,4
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,23152,Q543609,1992 general election,1
+,Q6209987,Joe Gaston,Q841045,Ulster Unionist Party,8216,Q543609,1992 general election,2
+,Q7440987,Sean Farren,Q175443,Social Democratic and Labour Party,6512,Q543609,1992 general election,3
+,,John Williams,Q244927,Alliance Party of Northern Ireland,3442,Q543609,1992 general election,4
+,,Thomas Sowler,Q7058484,Northern Ireland Conservatives,2263,Q543609,1992 general election,5
+,,James McGarry,Q76382,Sinn Féin,1916,Q543609,1992 general election,6
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,21495,Q918503,1997 general election,1
+,Q6138001,James Leslie,Q841045,Ulster Unionist Party,10921,Q918503,1997 general election,2
+,Q7440987,Sean Farren,Q175443,Social Democratic and Labour Party,7333,Q918503,1997 general election,3
+,,James McGarry,Q76382,Sinn Féin,2896,Q918503,1997 general election,4
+,Q6679766,David Alderdice,Q244927,Alliance Party of Northern Ireland,2845,Q918503,1997 general election,5
+,,Bronagh Hinds,Q7058538,Northern Ireland Women's Coalition,580,Q918503,1997 general election,6
+,,John Wright,Q491782,Natural Law Party,116,Q918503,1997 general election,7
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,24539,Q590740,2001 general election,1
+,,Lexie Scott,Q841045,Ulster Unionist Party,10315,Q590740,2001 general election,2
+,Q7440987,Sean Farren,Q175443,Social Democratic and Labour Party,8283,Q590740,2001 general election,3
+,Q3181858,John Kelly,Q76382,Sinn Féin,4822,Q590740,2001 general election,4
+,,Jayne Dunlop,Q244927,Alliance Party of Northern Ireland,1258,Q590740,2001 general election,5
+,Q296597,Ian Paisley,Q215519,Democratic Unionist Party,25156,Q428598,2005 general election,1
+,Q7184061,Philip McGuigan,Q76382,Sinn Féin,7191,Q428598,2005 general election,2
+Q98263744,,Rodney McCune,Q841045,Ulster Unionist Party,6637,Q428598,2005 general election,3
+,Q7440987,Sean Farren,Q175443,Social Democratic and Labour Party,5585,Q428598,2005 general election,4
+,,Jayne Dunlop,Q244927,Alliance Party of Northern Ireland,1357,Q428598,2005 general election,5
+,Q575881,Ian Paisley Jr,Q215519,Democratic Unionist Party,19672,Q215622,2010 general election,1
+,Q3499853,Jim Allister,Q985076,Traditional Unionist Voice,7114,Q215622,2010 general election,2
+,Q5209806,Daithí McKay,Q76382,Sinn Féin,5265,Q215622,2010 general election,3
+,,Irwin Armstrong,Q7879942,Ulster Conservatives and Unionists,4634,Q215622,2010 general election,4
+,Q5249384,Declan O'Loan,Q175443,Social Democratic and Labour Party,3738,Q215622,2010 general election,5
+,,Jayne Dunlop,Q244927,Alliance Party of Northern Ireland,1368,Q215622,2010 general election,6
+,,Lyle Cubitt,Q327591,Independent politician,606,Q215622,2010 general election,7
+,Q575881,Ian Paisley Jr,Q215519,Democratic Unionist Party,18107,Q3586935,2015 general election,1
+,,Timothy Gaston,Q985076,Traditional Unionist Voice,6561,Q3586935,2015 general election,2
+,Q5209806,Daithí McKay,Q76382,Sinn Féin,5143,Q3586935,2015 general election,3
+,Q7352813,Robin Swann,Q841045,Ulster Unionist Party,5054,Q3586935,2015 general election,4
+,Q5249384,Declan O'Loan,Q175443,Social Democratic and Labour Party,2925,Q3586935,2015 general election,5
+,,Jayne Dunlop,Q244927,Alliance Party of Northern Ireland,2351,Q3586935,2015 general election,6
+Q63854185,,Robert Hill,Q10647,UKIP,1341,Q3586935,2015 general election,7
+,,Carol Freeman,Q7058484,Northern Ireland Conservatives,368,Q3586935,2015 general election,8
+,,Thomas Palmer,Q327591,Independent politician,57,Q3586935,2015 general election,9
+,Q575881,Ian Paisley Jr,Q215519,Democratic Unionist Party,28521,Q25052149,2017 general election,1
+Q76119871,,Cara McShane,Q76382,Sinn Féin,7878,Q25052149,2017 general election,2
+,,Jackson Minford,Q841045,Ulster Unionist Party,3482,Q25052149,2017 general election,3
+,,Timothy Gaston,Q985076,Traditional Unionist Voice,3282,Q25052149,2017 general election,4
+Q76130678,,Patricia O'Lynn,Q244927,Alliance Party of Northern Ireland,2723,Q25052149,2017 general election,5
+,Q5249384,Declan O'Loan,Q175443,Social Democratic and Labour Party,2574,Q25052149,2017 general election,6
+,Q575881,Ian Paisley Jr,Q215519,Democratic Unionist Party,20860,Q30173038,2019 general election,1
+,Q7352813,Robin Swann,Q841045,Ulster Unionist Party,8139,Q30173038,2019 general election,2
+Q76130678,,Patricia O'Lynn,Q244927,Alliance Party of Northern Ireland,6231,Q30173038,2019 general election,3
+Q76119871,,Cara McShane,Q76382,Sinn Féin,5632,Q30173038,2019 general election,4
+Q98263513,,Margaret McKillop,Q175443,Social Democratic and Labour Party,2943,Q30173038,2019 general election,5
+Q98263513,,Margaret McKillop,Q175443,Social Democratic and Labour Party,2943,Q30173038,2019 general election,5
+Q76729351,,Stephen Palmer,Q327591,Independent politician,246,Q30173038,2019 general election,6
