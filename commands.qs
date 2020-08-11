@@ -1,10 +1,5 @@
 Q583571	P3602	Q918442	P768	Q751685	P102	Q6972240	P1111	4312	P1352	4	S4656	"https://en.wikipedia.org/wiki/North_Antrim_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Bronagh Hinds"
-LAST	Den	"Northern Irish election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q918503	P768	Q751685	P102	Q7058538	P1111	580	P1352	6	S4656	"https://en.wikipedia.org/wiki/North_Antrim_(UK_Parliament_constituency)"
+Q74550137	P3602	Q918503	P768	Q751685	P102	Q7058538	P1111	580	P1352	6	S4656	"https://en.wikipedia.org/wiki/North_Antrim_(UK_Parliament_constituency)"
 Q76119871	P3602	Q30173038	P768	Q751685	P102	Q76382	P1111	5632	P1352	4	S4656	"https://en.wikipedia.org/wiki/North_Antrim_(UK_Parliament_constituency)"
 Q76119871	P3602	Q25052149	P768	Q751685	P102	Q76382	P1111	7878	P1352	2	S4656	"https://en.wikipedia.org/wiki/North_Antrim_(UK_Parliament_constituency)"
 CREATE
